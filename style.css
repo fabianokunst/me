@@ -1,0 +1,134 @@
+.pagina {
+	background-attachment: scroll;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 650px;
+}
+.cabecalho {
+	float: left;
+	width: 100%;
+	text-align: center;
+	margin-top: 500px;
+}
+.cabecalho img {
+	text-align: center;
+	height: 300px;
+	width: 300px;
+	border-radius: 100%;
+}
+.title {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 36px;
+	line-height: 32px;
+	color: #666;
+	text-align: center;
+	width: 50%;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 60px;
+	margin-bottom: 0px;
+	float: left;
+	font-weight: bold;
+}
+.descritivo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	line-height: 32px;
+	color: #666;
+	text-align: center;
+	width: 50%;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	float: left;
+}
+
+.stroke {
+	height: 2px;
+	width: 20%;
+	margin-right: 40%;
+	margin-left: 40%;
+	background-color: #126994;
+	float: left;
+	margin-bottom: 40px;
+}
+.redes {
+	width: 300px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+.rede {
+	width: 30%;
+	text-align: center;
+	float: left;
+	margin-right: 1.5%;
+	margin-left: 1.5%;
+	margin-bottom: 40px;
+}
+.rede a img{
+	height: 55px;
+	width: 55px;
+	border-radius: 100%;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+.rede a:hover  img{
+	transition: 0.5s;
+	margin-top: 0px;
+	margin-bottom: 5px;
+
+}
+
+
+.art {
+	background-color: #CCC;
+	float: left;
+	width: 100%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	height: 600px;
+}
+.contato_fabiano {
+	float: left;
+	width: 100%;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #333;
+	text-align: center;
+	margin-top: 120px;
+}
+.contato_fabiano img {
+	text-align: center;
+	height: 150px;
+	width: 150px;
+	margin-bottom: 10px;
+}
+.linha_50 {
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #369;
+	text-align: center;
+	float: left;
+	width: 30%;
+	margin-right: 35%;
+	margin-left: 35%;
+	margin-top: 60px;
+}
+.rodape {
+	float: left;
+	width: 60%;
+	margin-top: 40px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+	text-align: center;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
